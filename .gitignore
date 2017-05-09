@@ -1,0 +1,11 @@
+# ignore
+  
+#1
+#dotnet ef migrations add Initial
+#dotnet ef database update
+
+#2
+#Вы должны остановить IIS Express, прежде чем запустить команды dotnet ef
+#dotnet ef migrations add Rating
+#dotnet ef database update
+
